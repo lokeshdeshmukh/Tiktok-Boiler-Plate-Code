@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+
+    <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        <SurfaceView
+                android:id="@+id/surfaceView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+    </FrameLayout>
+
+    <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="@color/text_grey"
+            app:layout_constraintBottom_toBottomOf="@id/fast1"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@id/fast1" />
+
+    <Button
+            android:id="@+id/fast1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:background="@null"
+            android:text="2.0x"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toTopOf="@id/toggleRecordingButton"
+            app:layout_constraintLeft_toRightOf="@+id/normal"
+            app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+            android:id="@+id/normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:background="@null"
+            android:text="1.0x"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toTopOf="@id/toggleRecordingButton"
+            app:layout_constraintLeft_toRightOf="@id/slow1"
+            app:layout_constraintRight_toLeftOf="@id/fast1" />
+
+    <Button
+            android:id="@+id/slow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:background="@null"
+            android:text="0.75x"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toTopOf="@id/toggleRecordingButton"
+            app:layout_constraintLeft_toRightOf="@id/slow2"
+            app:layout_constraintRight_toLeftOf="@id/normal" />
+
+    <Button
+            android:id="@+id/slow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:background="@null"
+            android:text="0.5x"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toTopOf="@id/toggleRecordingButton"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/slow1" />
+
+    <com.skyfishjy.library.RippleBackground xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/toggleRecordingButton"
+            android:layout_width="@dimen/_80sdp"
+            android:layout_height="@dimen/_80sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:rb_color="#0099CC"
+            app:rb_duration="3000"
+            app:rb_radius="62dp"
+            app:rb_type="fillRipple"
+            app:rb_rippleAmount="2"
+            app:rb_scale="1"
+            android:gravity="center_horizontal|center_vertical">
+
+        <ImageButton
+                android:id="@+id/toggleRecordingButton1"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_margin="@dimen/_10sdp"
+                android:background="@android:color/transparent"
+                android:scaleType="centerCrop"
+                android:gravity="center_horizontal|center_vertical"
+                android:src="@drawable/recordbutton" />
+    </com.skyfishjy.library.RippleBackground>
+
+    <com.github.ybq.android.spinkit.SpinKitView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/spin_kit"
+            style="@style/SpinKitView.Large.ThreeBounce"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:padding="@dimen/textLarge22"
+            app:SpinKit_Color="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:indeterminate="false"
+            android:indeterminateTint="@color/white"
+            android:indeterminateTintMode="src_in"
+            android:max="100"
+            android:progressBackgroundTint="@color/black"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+            android:id="@+id/countdown"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:textSize="@dimen/_50sdp"
+            android:textColor="@color/white"
+            android:visibility="gone"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="1" />
+</androidx.constraintlayout.widget.ConstraintLayout>

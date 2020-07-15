@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lokeshdeshmukh/Downloads/TikTok/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/res/values-xxhdpi/dimens.xml",
+                    "from": {
+                        "startLines": "13,12,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "343,286,201,242",
+                        "endColumns": "51,56,40,42",
+                        "endOffsets": "390,338,237,280"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,107,164,205",
+                        "endColumns": "51,56,40,42",
+                        "endOffsets": "102,159,200,243"
+                    }
+                }
+            ]
+        }
+    ]
+}

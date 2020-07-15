@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lokeshdeshmukh/Downloads/TikTok/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml",
+            "map": [
+                {
+                    "source": "/Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/135601789f5272ebc15f419028bc267f/jetified-exoplayer-ui-2.7.3/res/values-ka-rGE/values-ka-rGE.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,213,280,347,425,507,591,672,749,827",
+                        "endColumns": "80,76,66,66,77,81,83,80,76,77,68",
+                        "endOffsets": "131,208,275,342,420,502,586,667,744,822,891"
+                    }
+                }
+            ]
+        }
+    ]
+}

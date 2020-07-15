@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:67:9-75:20
+	android:grantUriPermissions
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:71:17-51
+	android:authorities
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:69:17-64
+	android:exported
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:70:17-41
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:68:17-66
+manifest
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/62e0b1243deb7979a21bbfb74ab09851/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.imjeevandeshmukh:GlideToast:1.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/2f5cf5cc2686ccf2e085648568a7b7ce/jetified-GlideToast-1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/b5ee85dddab3b6d9db251d020a6e6e34/jetified-lottie-3.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/fa5197fcbe7d5b9d2909d322a79c141d/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ea75621ff2e0a0210608dba93e8f6c9/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/a738f26e3edad10d3864ca9e3e355a23/jetified-exoplayer-dash-2.7.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/135601789f5272ebc15f419028bc267f/jetified-exoplayer-ui-2.7.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/15322240fc53586dd1b1958b8e27ea87/jetified-exoplayer-core-2.9.3/AndroidManifest.xml:17:1-26:12
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6824f08f67465e48e4f3fdd5403be954/jetified-FFmpegAndroid-0.3.2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.guilhe:seekbar-ranged-view:1.0.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/080b366c3a4fe9ae03e02ff14c10214a/jetified-seekbar-ranged-view-1.0.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/9c8361f2edc524b0da7ea41a80f625fd/jetified-sdp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/521d04b15bc2d5f38a71731ecba04f38/jetified-fresco-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/ad38e36b08bcb4d9e06323ab0d262dc5/jetified-rxandroid-2.0.2/AndroidManifest.xml:15:1-21:12
+MERGED from [:spotify-app-remote] /Users/lokeshdeshmukh/Downloads/TikTok/spotify-app-remote/build/.transforms/431cc92bca5fdae4918e1eea75b9e64e/jetified-spotify-app-remote-release-0.7.0/AndroidManifest.xml:22:1-33:12
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/9c2571bea0fe9f9820bdf68f2407cd2b/jetified-library-1.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/46787eeb2a895f94ca38d3967407e386/jetified-Android-SpinKit-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/0ec1824ee9ca6bee55290647cc5294aa/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/da1f4dcf61048406260eb54e9af00d04/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e7384f292027fe48cebc1567b7f2cbb8/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/5a506581cb2f084047e3cdc7cd77efdf/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/7a76e9a8ff2c1c8afc11d3d8a9b35745/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/49f8eb0f60638f63203dbcc31b902f65/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6bdfe10182e09565a31660ecfea6f29e/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6d270f3c78e6d3a946f31646c186ce42/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/1030d3a126a0269d151db0960dd6c830/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/78ecd96de9f5949d219134edca13fe8e/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/2a914b7245a8b3f805c91a1b5ce765fa/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/bfcce67b999d97dabac50ae7553096c3/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6d37c64010130f58665c255a4ec93254/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/3e94e1f6b7b7caaee46d8ee9f66c50cc/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/0ae2a59f259feb35e833d457c90ea254/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e998f890797e7470b3c60d4cac3fbe44/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e2eb95c8d2d3d5c98830206753e23909/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/f514f6c8d74eca5941842458c5a879fa/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/be3ec58a2ee5604f6d1aaa491826b7b1/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/7b98b778154f1db0bb117ea506718ddb/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/32f32e58b0af35098c20a0068f598231/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/cae2507b432f023f536a39694a60ed52/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c1f72966c7a9bcd8a180ffbc892f65b5/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c74f750c64bd0f3f749bfb8647f1210f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/25f39401474222ef694b949c8d976c8a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/3c793b83875b3d7cfb52556e20407530/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/36024727244d5940171ef4173f1057ee/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/965b56a0a2b53fa1055df5bcc0121dae/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/be3d981ae461ec2cdeaf8e2ec1b2beef/jetified-drawee-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/b58fccfdda7f4956785dd9d218e50b12/jetified-imagepipeline-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/62e2008f560fb35e0491b4b797e01450/jetified-imagepipeline-base-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c60a19519291ed8cfd43411f8134794d/jetified-fbcore-1.9.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ce476d36ac15b57faa783e9a3d763dc/jetified-soloader-0.3.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+	package
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:10:11-36
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:70-116
+	android:versionCode
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:1-78:12
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:13:5-64
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:15:5-16:44
+	tools:node
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:16:22-42
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:17:22-68
+uses-permission#com.android.providers.media.MediaProvider
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:18:22-78
+uses-feature#android.hardware.camera
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:19:19-57
+uses-feature#android.hardware.camera2.full
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:20:19-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:22:5-70
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:22:19-67
+application
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:24:5-77:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/62e0b1243deb7979a21bbfb74ab09851/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/62e0b1243deb7979a21bbfb74ab09851/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/b5ee85dddab3b6d9db251d020a6e6e34/jetified-lottie-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/b5ee85dddab3b6d9db251d020a6e6e34/jetified-lottie-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ea75621ff2e0a0210608dba93e8f6c9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ea75621ff2e0a0210608dba93e8f6c9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6824f08f67465e48e4f3fdd5403be954/jetified-FFmpegAndroid-0.3.2/AndroidManifest.xml:12:5-20
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6824f08f67465e48e4f3fdd5403be954/jetified-FFmpegAndroid-0.3.2/AndroidManifest.xml:12:5-20
+MERGED from [:spotify-app-remote] /Users/lokeshdeshmukh/Downloads/TikTok/spotify-app-remote/build/.transforms/431cc92bca5fdae4918e1eea75b9e64e/jetified-spotify-app-remote-release-0.7.0/AndroidManifest.xml:31:5-20
+MERGED from [:spotify-app-remote] /Users/lokeshdeshmukh/Downloads/TikTok/spotify-app-remote/build/.transforms/431cc92bca5fdae4918e1eea75b9e64e/jetified-spotify-app-remote-release-0.7.0/AndroidManifest.xml:31:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/9c2571bea0fe9f9820bdf68f2407cd2b/jetified-library-1.0.1/AndroidManifest.xml:11:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/9c2571bea0fe9f9820bdf68f2407cd2b/jetified-library-1.0.1/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e998f890797e7470b3c60d4cac3fbe44/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e998f890797e7470b3c60d4cac3fbe44/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e2eb95c8d2d3d5c98830206753e23909/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e2eb95c8d2d3d5c98830206753e23909/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ce476d36ac15b57faa783e9a3d763dc/jetified-soloader-0.3.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ce476d36ac15b57faa783e9a3d763dc/jetified-soloader-0.3.0/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:28:13-39
+	android:label
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:26:13-45
+	android:appComponentFactory
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:31:13-57
+		REJECTED from [androidx.core:core:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e998f890797e7470b3c60d4cac3fbe44/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:roundIcon
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:27:13-54
+	tools:targetApi
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:33:13-32
+	android:icon
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:25:13-49
+	android:allowBackup
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:32:13-40
+	android:theme
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:29:13-44
+	tools:replace
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:30:13-56
+activity#com.loki.tiktok.SplashScreen
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:36:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:40:27-74
+activity#com.loki.tiktok.MainActivity
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:46:9-49:20
+	android:screenOrientation
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:47:19-55
+	android:configChanges
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:48:19-69
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:46:19-62
+activity#com.loki.tiktok.spotifyplayer.SpotifyPlayer
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:50:9-53:20
+	android:screenOrientation
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:51:17-53
+	android:configChanges
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:52:17-67
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:50:19-62
+activity#com.loki.tiktok.videorecorder.VideoRecorder
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:55:9-58:20
+	android:screenOrientation
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:56:17-53
+	android:configChanges
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:57:17-67
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:55:19-62
+activity#com.loki.tiktok.TrimmerActivity
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:61:9-64:20
+	android:screenOrientation
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:62:19-55
+	android:configChanges
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:63:19-69
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:61:19-65
+uses-sdk
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/62e0b1243deb7979a21bbfb74ab09851/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/62e0b1243deb7979a21bbfb74ab09851/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.imjeevandeshmukh:GlideToast:1.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/2f5cf5cc2686ccf2e085648568a7b7ce/jetified-GlideToast-1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.imjeevandeshmukh:GlideToast:1.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/2f5cf5cc2686ccf2e085648568a7b7ce/jetified-GlideToast-1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/b5ee85dddab3b6d9db251d020a6e6e34/jetified-lottie-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/b5ee85dddab3b6d9db251d020a6e6e34/jetified-lottie-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/fa5197fcbe7d5b9d2909d322a79c141d/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/fa5197fcbe7d5b9d2909d322a79c141d/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ea75621ff2e0a0210608dba93e8f6c9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ea75621ff2e0a0210608dba93e8f6c9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/a738f26e3edad10d3864ca9e3e355a23/jetified-exoplayer-dash-2.7.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/a738f26e3edad10d3864ca9e3e355a23/jetified-exoplayer-dash-2.7.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/135601789f5272ebc15f419028bc267f/jetified-exoplayer-ui-2.7.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/135601789f5272ebc15f419028bc267f/jetified-exoplayer-ui-2.7.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/15322240fc53586dd1b1958b8e27ea87/jetified-exoplayer-core-2.9.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/15322240fc53586dd1b1958b8e27ea87/jetified-exoplayer-core-2.9.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6824f08f67465e48e4f3fdd5403be954/jetified-FFmpegAndroid-0.3.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.writingminds:FFmpegAndroid:0.3.2] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6824f08f67465e48e4f3fdd5403be954/jetified-FFmpegAndroid-0.3.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.guilhe:seekbar-ranged-view:1.0.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/080b366c3a4fe9ae03e02ff14c10214a/jetified-seekbar-ranged-view-1.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.guilhe:seekbar-ranged-view:1.0.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/080b366c3a4fe9ae03e02ff14c10214a/jetified-seekbar-ranged-view-1.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/9c8361f2edc524b0da7ea41a80f625fd/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/9c8361f2edc524b0da7ea41a80f625fd/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/521d04b15bc2d5f38a71731ecba04f38/jetified-fresco-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/521d04b15bc2d5f38a71731ecba04f38/jetified-fresco-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/ad38e36b08bcb4d9e06323ab0d262dc5/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/ad38e36b08bcb4d9e06323ab0d262dc5/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [:spotify-app-remote] /Users/lokeshdeshmukh/Downloads/TikTok/spotify-app-remote/build/.transforms/431cc92bca5fdae4918e1eea75b9e64e/jetified-spotify-app-remote-release-0.7.0/AndroidManifest.xml:27:5-29:41
+MERGED from [:spotify-app-remote] /Users/lokeshdeshmukh/Downloads/TikTok/spotify-app-remote/build/.transforms/431cc92bca5fdae4918e1eea75b9e64e/jetified-spotify-app-remote-release-0.7.0/AndroidManifest.xml:27:5-29:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/9c2571bea0fe9f9820bdf68f2407cd2b/jetified-library-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/9c2571bea0fe9f9820bdf68f2407cd2b/jetified-library-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/46787eeb2a895f94ca38d3967407e386/jetified-Android-SpinKit-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/46787eeb2a895f94ca38d3967407e386/jetified-Android-SpinKit-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/0ec1824ee9ca6bee55290647cc5294aa/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/0ec1824ee9ca6bee55290647cc5294aa/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/da1f4dcf61048406260eb54e9af00d04/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/da1f4dcf61048406260eb54e9af00d04/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e7384f292027fe48cebc1567b7f2cbb8/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e7384f292027fe48cebc1567b7f2cbb8/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/5a506581cb2f084047e3cdc7cd77efdf/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/5a506581cb2f084047e3cdc7cd77efdf/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/7a76e9a8ff2c1c8afc11d3d8a9b35745/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/7a76e9a8ff2c1c8afc11d3d8a9b35745/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/49f8eb0f60638f63203dbcc31b902f65/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/49f8eb0f60638f63203dbcc31b902f65/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6bdfe10182e09565a31660ecfea6f29e/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6bdfe10182e09565a31660ecfea6f29e/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6d270f3c78e6d3a946f31646c186ce42/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6d270f3c78e6d3a946f31646c186ce42/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/1030d3a126a0269d151db0960dd6c830/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/1030d3a126a0269d151db0960dd6c830/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/78ecd96de9f5949d219134edca13fe8e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/78ecd96de9f5949d219134edca13fe8e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/2a914b7245a8b3f805c91a1b5ce765fa/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/2a914b7245a8b3f805c91a1b5ce765fa/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/bfcce67b999d97dabac50ae7553096c3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/bfcce67b999d97dabac50ae7553096c3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6d37c64010130f58665c255a4ec93254/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/6d37c64010130f58665c255a4ec93254/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/3e94e1f6b7b7caaee46d8ee9f66c50cc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/3e94e1f6b7b7caaee46d8ee9f66c50cc/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/0ae2a59f259feb35e833d457c90ea254/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/0ae2a59f259feb35e833d457c90ea254/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e998f890797e7470b3c60d4cac3fbe44/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e998f890797e7470b3c60d4cac3fbe44/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e2eb95c8d2d3d5c98830206753e23909/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/e2eb95c8d2d3d5c98830206753e23909/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/f514f6c8d74eca5941842458c5a879fa/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/f514f6c8d74eca5941842458c5a879fa/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/be3ec58a2ee5604f6d1aaa491826b7b1/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/be3ec58a2ee5604f6d1aaa491826b7b1/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/7b98b778154f1db0bb117ea506718ddb/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/7b98b778154f1db0bb117ea506718ddb/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/32f32e58b0af35098c20a0068f598231/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/32f32e58b0af35098c20a0068f598231/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/cae2507b432f023f536a39694a60ed52/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/cae2507b432f023f536a39694a60ed52/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c1f72966c7a9bcd8a180ffbc892f65b5/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c1f72966c7a9bcd8a180ffbc892f65b5/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c74f750c64bd0f3f749bfb8647f1210f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c74f750c64bd0f3f749bfb8647f1210f/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/25f39401474222ef694b949c8d976c8a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/25f39401474222ef694b949c8d976c8a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/3c793b83875b3d7cfb52556e20407530/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/3c793b83875b3d7cfb52556e20407530/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/36024727244d5940171ef4173f1057ee/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/36024727244d5940171ef4173f1057ee/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/965b56a0a2b53fa1055df5bcc0121dae/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/965b56a0a2b53fa1055df5bcc0121dae/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/be3d981ae461ec2cdeaf8e2ec1b2beef/jetified-drawee-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/be3d981ae461ec2cdeaf8e2ec1b2beef/jetified-drawee-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/b58fccfdda7f4956785dd9d218e50b12/jetified-imagepipeline-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/b58fccfdda7f4956785dd9d218e50b12/jetified-imagepipeline-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/62e2008f560fb35e0491b4b797e01450/jetified-imagepipeline-base-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/62e2008f560fb35e0491b4b797e01450/jetified-imagepipeline-base-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c60a19519291ed8cfd43411f8134794d/jetified-fbcore-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/c60a19519291ed8cfd43411f8134794d/jetified-fbcore-1.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ce476d36ac15b57faa783e9a3d763dc/jetified-soloader-0.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/8ce476d36ac15b57faa783e9a3d763dc/jetified-soloader-0.3.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:72:13-74:61
+	android:resource
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:74:21-59
+	android:name
+		ADDED from /Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/AndroidManifest.xml:73:21-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/15322240fc53586dd1b1958b8e27ea87/jetified-exoplayer-core-2.9.3/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/15322240fc53586dd1b1958b8e27ea87/jetified-exoplayer-core-2.9.3/AndroidManifest.xml:24:22-76

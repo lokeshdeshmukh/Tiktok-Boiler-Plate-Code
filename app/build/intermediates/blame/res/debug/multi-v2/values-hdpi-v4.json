@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lokeshdeshmukh/Downloads/TikTok/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/fa5197fcbe7d5b9d2909d322a79c141d/appcompat-1.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "248",
+                        "endLines": "10",
+                        "endColumns": "13",
+                        "endOffsets": "520"
+                    }
+                },
+                {
+                    "source": "/Users/lokeshdeshmukh/Downloads/TikTok/app/src/main/res/values-hdpi/dimens.xml",
+                    "from": {
+                        "startLines": "13,12,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "343,286,201,242",
+                        "endColumns": "51,56,40,42",
+                        "endOffsets": "390,338,237,280"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,107,164,205",
+                        "endColumns": "51,56,40,42",
+                        "endOffsets": "102,159,200,243"
+                    }
+                }
+            ]
+        }
+    ]
+}

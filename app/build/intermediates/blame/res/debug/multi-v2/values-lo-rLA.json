@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lokeshdeshmukh/Downloads/TikTok/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml",
+            "map": [
+                {
+                    "source": "/Users/lokeshdeshmukh/.gradle/caches/transforms-2/files-2.1/135601789f5272ebc15f419028bc267f/jetified-exoplayer-ui-2.7.3/res/values-lo-rLA/values-lo-rLA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,136,208,280,346,424,508,588,664,738,814",
+                        "endColumns": "80,71,71,65,77,83,79,75,73,75,63",
+                        "endOffsets": "131,203,275,341,419,503,583,659,733,809,873"
+                    }
+                }
+            ]
+        }
+    ]
+}
